@@ -19,7 +19,7 @@
 **Thoughts:** it seems that today I haven't learnt much because of that but I think the forum will be useful in the future, so it isn't waisted time
 
 
-### Day 4 June 9, 2017
+### Day 4 June 10, 2017
 
 **Today's Progress**: Learn a little about jQuerry.
 
