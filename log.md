@@ -30,3 +30,10 @@
 **Today's Progress**: The challege becomes hard when I have to do my first web project. In the beginning, I have no idea how to finish and have to revisit the material a lot.
 
 **Thoughts:** I hope to finish this project soon.
+
+### Day 7 June 12, 2017
+
+**Today's Progress**: Continue doing my 1st project. Learned card bootstrap
+
+**Thoughts:** Still struggle with it but I learned more.
+
