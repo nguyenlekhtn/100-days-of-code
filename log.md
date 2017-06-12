@@ -24,3 +24,9 @@
 **Today's Progress**: Learn a little about jQuerry.
 
 **Thoughts:** jQuerry seems fun and easy to learn in the begining.
+
+### Day 5 June 11, 2017
+
+**Today's Progress**: The challege becomes hard when I have to do my first web project. In the beginning, I have no idea how to finish and have to revisit the material a lot.
+
+**Thoughts:** I hope to finish this project soon.
