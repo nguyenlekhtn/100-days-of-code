@@ -49,7 +49,7 @@
 
 **Thoughts:** I code in the class so it may consider cheat
 
-## Day 9 June 14, 2017
+## Day 10 June 14, 2017
 
 **Today's Progress**: Continue doing my 1st project. 
 **Thoughts:** Basicly fininshed it but I feel my project is less cool than other projectI found
