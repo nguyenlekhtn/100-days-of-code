@@ -31,19 +31,13 @@
 
 **Thoughts:** I hope to finish this project soon.
 
-### Day 7 June 12, 2017#
+### Day 7 June 12, 2017
 
 **Today's Progress**: Continue doing my 1st project. Learned card bootstrap
 
 **Thoughts:** Still struggle with it but I learned more.
 
 ## Day 8 June 13, 2017
-
-**Today's Progress**: Continue doing my 1st project. Knew how to make a block aligned-left text at the center
-
-**Thoughts:** I code in the class so it may consider cheat
-
-## Day 9 June 13, 2017
 
 **Today's Progress**: Continue doing my 1st project. Knew how to make a block aligned-left text at the center
 
