@@ -39,7 +39,7 @@
 
 **Thoughts:** Still struggle with it but I learned more.
 
-### Day 7 June 12, 2017
+### Day 8 June 13, 2017
 
 **Today's Progress**: Continue doing my 1st project. Learned card bootstrap
 
