@@ -49,4 +49,10 @@
 
 **Thoughts:** Basicly fininshed it but I feel my project is less cool than other projectI found
 
-## Day 11 June 14, 2017 SKIPPED
+## Day 11 June 15, 2017 SKIPPED
+
+## Day 11 June 16, 2017
+
+**Today's Progress**: Continue doing my 1st project. 
+
+**Thoughts:** I feel it took me too much times
